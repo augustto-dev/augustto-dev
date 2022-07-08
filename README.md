@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu me chamo José Augusto!</h1>
 <h3 align="center">Desenvolvedor Front-End Mobile | React-Native</h3>
 
-- 🔭 Atualmente trabalhando no projeto: [Post-Notes](https://github.com/augustto-dev/Post-Notes-Front-End)
+- 🔭 Atualmente trabalhando no projeto: [Post-Notes | Front-End](https://github.com/augustto-dev/Post-Notes-Front-End)
 
 - 🌱 Estou atualmente aprendendo: **React-Native**
 
@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustto-dev&show_icons=true&locale=en&layout=compact" alt="augustto-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustto-dev&show_icons=true&locale=en" alt="augustto-dev" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=augustto-dev&show_icons=true&locale=en" alt="augustto-dev" /></p>
