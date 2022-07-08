@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando no projeto: [Post-Notes | Front-End](https://github.com/augustto-dev/Post-Notes-Front-End)
 
-- 🌱 Estou atualmente aprendendo: **React-Native**
+- 🌱 Estou atualmente aprendendo: **React-Native**(https://github.com/facebook/react-native)
 
 - 📫 Acompanhe-me em outras redes: **https://linktr.ee/augustto_dev**
 
