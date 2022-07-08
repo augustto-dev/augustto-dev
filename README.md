@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu me chamo José Augusto!</h1>
 <h3 align="center">Desenvolvedor Front-End Mobile | React-Native</h3>
 
-- 🔭 Atualmente trabalhando no projeto: [Post-Notes | Front-End](https://github.com/augustto-dev/Post-Notes-Front-End)
+- 🔭 Atualmente trabalhando em um projeto secreto!
 
 - 🌱 Estou atualmente aprendendo: [React-Native](https://github.com/facebook/react-native)
 
