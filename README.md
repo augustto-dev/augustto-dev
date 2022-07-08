@@ -12,4 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=augustto-dev&show_icons=true&locale=en&layout=compact" alt="augustto-dev" /></p>
 
-<p>&nbsp;<img width="50%" height="190rem" src="https://github-readme-stats.vercel.app/api?username=augustto-dev&show_icons=true&locale=en" alt="augustto-dev" /></p>
+<p>&nbsp;<img width="50%" height="190em" src="https://github-readme-stats.vercel.app/api?username=augustto-dev&show_icons=true&locale=en" alt="augustto-dev" /></p>
