@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Atualmente estou trabalhando no projeto: <a href="https://github.com/augustto-dev/Post-Notes">Post-Notes</a><br>📚 Estou aprendendo a utilizar o framework <strong>React-Native</strong><br>🎯 Espero concluir os meus estudos e me aprimorar na área<br>🎲 Um fato curioso: Já programava <em>mods</em> de Minecraft quando criança ⛏️😄</p>
+<p align="left">✨ Atualmente estou trabalhando no projeto: <a href="https://github.com/augustto-dev/Post-Notes">Post-Notes</a><br>📚 Estou aprendendo a utilizar o framework <strong>React-Native</strong><br>🎯 Espero concluir os meus estudos e me aprimorar na área<br>🎲 Fato curioso: Já programei <em>mods</em> de Minecraft quando criança ⛏️😄</p>
 
 ###
 
