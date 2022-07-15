@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Atualmente estou trabalhando no projeto: <a href="https://github.com/augustto-dev/Post-Notes">Post-Notes</a><br>📚 Estou aprendendo a utilizar o framework <strong>React-Native</strong><br>🎯 Espero concluir os meus estudos e me aprimorar na área<br>🎲 Fato curioso: Já "programei" <em>mods</em> de Minecraft quando criança ⛏️😄</p>
+<p align="left">✨ Atualmente estou trabalhando no projeto: <a href="https://github.com/augustto-dev/Post-Notes">Post-Notes</a><br>📚 Estou aprendendo a utilizar o framework <strong>React-Native</strong><br>🎯 Espero concluir os meus estudos e me aprimorar na área<br>🎲 Fato curioso: Já "programei" mods de Minecraft quando criança ⛏️😄</p>
 
 ###
 
@@ -38,4 +38,4 @@
 
 ###
 <strong><a href="https://profile-readme-generator.com/">Créditos de criação do Readme</strong></a><br>
-<strong><a href="https://gifs.alphacoders.com/gifs/view/190634">Créditos do gif decorativo para o Readme</strong></a>
+<strong><a href="https://gifs.alphacoders.com/gifs/view/190634">Créditos de gif decorativo para o Readme</strong></a>
