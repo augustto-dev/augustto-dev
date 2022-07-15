@@ -38,4 +38,4 @@
 
 ###
 <strong>Créditos de criação do Readme:</strong> <a href="https://profile-readme-generator.com/">Profile Readme Generator</a>
-<strong>Créditos de <em>gif</em> decorativo:</strong> <a href="https://gifs.alphacoders.com/gifs/view/190634"></a>
+<strong>Créditos de <em>gif</em> decorativo:</strong> <a href="https://gifs.alphacoders.com/gifs/view/190634">Link</a>
