@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="338" src="https://raw.githubusercontent.com/augustto-dev/augustto-dev/main/gif.gif"  />
+<img align="right" height="337" src="https://raw.githubusercontent.com/augustto-dev/augustto-dev/main/gif.gif"  />
 
 ###
 
