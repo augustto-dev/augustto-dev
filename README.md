@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="335" src="https://raw.githubusercontent.com/augustto-dev/augustto-dev/main/gif.gif"  />
+<img align="right" height="338" src="https://raw.githubusercontent.com/augustto-dev/augustto-dev/main/gif.gif"  />
 
 ###
 
@@ -37,5 +37,5 @@
 </div>
 
 ###
-<strong>Créditos de criação do Readme:</strong> <a href="https://profile-readme-generator.com/">Profile Readme Generator</a>
-<strong>Créditos de <em>gif</em> decorativo:</strong> <a href="https://gifs.alphacoders.com/gifs/view/190634">Link</a>
+<strong><a href="https://profile-readme-generator.com/">Créditos de criação do Readme</strong></a>
+<strong><a href="https://gifs.alphacoders.com/gifs/view/190634">Créditos do gif decorativo para o Readme</strong></a>
