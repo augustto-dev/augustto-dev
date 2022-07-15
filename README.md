@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Bem, para começo de conversa, me chamo José Augusto, tenho 18 anos e comecei a conhecer de fato a programação a partir de 2019, ao me ingressar no curso técnico de informática através do <strong>IFBA Campus Brumado</strong>, onde atualmente estou cursando o meu 3° ano de ensino médio e técnico.<br>Pretendo seguir carreira na área de desenvolvimento mobile, com foco atual no <strong>Front-End</strong>.</p>
+<p align="left">Bem, para começo de conversa, me chamo José Augusto, tenho 18 anos e comecei a conhecer de forma concreta a programação a partir de 2019, ao me ingressar no curso técnico de informática através do <strong>IFBA Campus Brumado</strong>, onde atualmente estou cursando o meu 3° ano de ensino médio e técnico.<br>Pretendo seguir carreira na área de desenvolvimento mobile, com foco atual no <strong>Front-End</strong>.</p>
 
 ###
 
-<p align="left">✨ Atualmente estou trabalhando no projeto: <a href="https://github.com/augustto-dev/Post-Notes">Post-Notes</a><br>📚 Estou aprendendo a utilizar o framework <strong>React-Native</strong><br>🎯 Espero concluir os meus estudos e me aprimorar na área<br>🎲 Fato curioso: Já programei <em>mods</em> de Minecraft quando criança ⛏️😄</p>
+<p align="left">✨ Atualmente estou trabalhando no projeto: <a href="https://github.com/augustto-dev/Post-Notes">Post-Notes</a><br>📚 Estou aprendendo a utilizar o framework <strong>React-Native</strong><br>🎯 Espero concluir os meus estudos e me aprimorar na área<br>🎲 Fato curioso: Já "programei" <em>mods</em> de Minecraft quando criança ⛏️😄</p>
 
 ###
 
