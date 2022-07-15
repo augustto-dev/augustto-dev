@@ -37,5 +37,5 @@
 </div>
 
 ###
-<strong><a href="https://profile-readme-generator.com/">Créditos de criação do Readme</strong></a>
+<strong><a href="https://profile-readme-generator.com/">Créditos de criação do Readme</strong></a><br>
 <strong><a href="https://gifs.alphacoders.com/gifs/view/190634">Créditos do gif decorativo para o Readme</strong></a>
