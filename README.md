@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="275" src="https://files.virgool.io/upload/users/789055/posts/i8pai3onddts/hldmpslbvle9.gif"  />
+<img align="right" height="275" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif"  />
 
 ###
 
